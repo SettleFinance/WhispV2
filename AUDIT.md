@@ -1,3 +1,6 @@
+# Whisp Smart Contract Audit
+Audit prepared by Alex Towle [Github](https://github.com/jalextowle)
+
 ## Audit Report
 
 ### Scope
